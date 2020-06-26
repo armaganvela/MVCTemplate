@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\Test.Interfaces.dll
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\Test.Interfaces.pdb
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\Test.Core.dll
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\Test.Core.pdb
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\Test.Core.dll.config
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\source\repos\Test\Test.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Test\Test.Interfaces\obj\Debug\Test.Interfaces.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Test\Test.Interfaces\obj\Debug\Test.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Test\Test.Interfaces\obj\Debug\Test.Interfaces.csproj.CopyComplete
+C:\Users\user\source\repos\Test\Test.Interfaces\obj\Debug\Test.Interfaces.dll
+C:\Users\user\source\repos\Test\Test.Interfaces\obj\Debug\Test.Interfaces.pdb

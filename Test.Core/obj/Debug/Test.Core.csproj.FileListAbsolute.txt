@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\Test.Core.dll.config
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\Test.Core.dll
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\Test.Core.pdb
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\source\repos\Test\Test.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\source\repos\Test\Test.Core\obj\Debug\Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Test\Test.Core\obj\Debug\Test.Core.csproj.CopyComplete
+C:\Users\user\source\repos\Test\Test.Core\obj\Debug\Test.Core.dll
+C:\Users\user\source\repos\Test\Test.Core\obj\Debug\Test.Core.pdb
+C:\Users\user\source\repos\Test\Test.Core\obj\Debug\Test.Core.csprojAssemblyReference.cache
